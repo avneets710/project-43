@@ -1,2 +1,1 @@
-# project-43
-game
+# sweety-project43
